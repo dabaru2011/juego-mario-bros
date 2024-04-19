@@ -1,0 +1,19 @@
+.encavezado{
+    width: 100%;
+}
+h3{
+    color: aqua;
+}
+#mario{
+    width: 100%;
+}
+#piedepagina
+{
+    background-color: white;
+}
+video{
+    background:url("game_console.png") ;
+    background-size:cover;
+    background-position:center;
+    padding: 25px;
+}
